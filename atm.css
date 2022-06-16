@@ -1,0 +1,58 @@
+body{
+    background-color: yellowgreen;
+    text-align: center;
+}
+#se{
+    height: 50px;
+    width: 200px;
+    border: 7px solid black;
+    font-weight: bolder;
+    background-color: darkgoldenrod;
+}
+#pro{
+    height: 50px;
+    width: 200px;
+    border: 3px solid green;
+    font-weight: bolder;
+    background-color: wheat;
+}
+input{
+    height: 20px;
+    width: 200px;
+    border: 3px solid green;
+    font-weight: bolder;
+    background-color: wheat;
+    display: none;
+    margin-left: 550px;
+    margin-bottom: 12px;
+}
+#witho{
+    height: 50px;
+    width: 200px;
+    border: 3px solid black;
+    font-weight: bolder;
+    background-color: red;
+    font-size: large;
+    border-radius: 20px;
+    display: none;
+    margin-left: 550px;
+    margin-bottom: 12px;
+}
+#depo{
+    height: 50px;
+    width: 200px;
+    border: 5px solid black;
+    font-weight: bolder;
+    background-color: green;
+    padding: 12px;
+    border-radius: 20px;
+    font-size: large;
+    display: none;
+    margin-left: 550px;
+}
+#gogo{
+    color: blue;
+    background-color: burlywood;
+    border: 3px solid black;
+}
+
